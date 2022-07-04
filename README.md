@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nixxen" alt="nixxen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nixxen&theme=nord" alt="nixxen" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-nixxen.vercel.app/api?username=nixxen&show_icons=true&locale=en" alt="nixxen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-nixxen.vercel.app/api?username=nixxen&theme=nord&show_icons=true&locale=en" alt="nixxen" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/nixxen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nixxen" /></a></p><br><br>
