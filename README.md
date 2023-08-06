@@ -1,5 +1,5 @@
 <h1 align="center"> Odd Mathisen (He/Him) </h1>
-<h3 align="center">Currently learning new skills while working towards a CS degree at University of Agder</h3>
+<h3 align="center">CS Engineer, Software developer, Automation enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixxen&label=Profile%20views&color=0e75b6&style=flat" alt="nixxen" />
 <a href="https://twitter.com/nixxenftw" target="blank"><img src="https://img.shields.io/twitter/follow/nixxenftw?logo=twitter&style=flat" alt="nixxenftw" /></a></p>
